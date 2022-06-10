@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp2opdrachten2", "CSharp2opdrachten2\CSharp2opdrachten2.csproj", "{074EB82B-C3C6-44AC-BEE2-DBC8F2B260E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp2opdrachten2", "CSharp2opdrachten2\CSharp2opdrachten2.csproj", "{074EB82B-C3C6-44AC-BEE2-DBC8F2B260E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumOpdracht", "EnumOpdracht\EnumOpdracht.csproj", "{9459956D-0712-4F2C-A25C-2896BF41DF74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumOpdracht", "EnumOpdracht\EnumOpdracht.csproj", "{9459956D-0712-4F2C-A25C-2896BF41DF74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
