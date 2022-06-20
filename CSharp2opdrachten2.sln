@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp2opdrachten2", "CShar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumOpdracht", "EnumOpdracht\EnumOpdracht.csproj", "{9459956D-0712-4F2C-A25C-2896BF41DF74}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileDirOpdracht", "FileDirOpdracht\FileDirOpdracht.csproj", "{CAED16D1-CBCF-4547-9552-6E9CADADFA09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOOpdracht", "FileIOOpdracht\FileIOOpdracht.csproj", "{88D6DA46-D212-48CC-9F04-7F8BD16DED20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9459956D-0712-4F2C-A25C-2896BF41DF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9459956D-0712-4F2C-A25C-2896BF41DF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9459956D-0712-4F2C-A25C-2896BF41DF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAED16D1-CBCF-4547-9552-6E9CADADFA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAED16D1-CBCF-4547-9552-6E9CADADFA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAED16D1-CBCF-4547-9552-6E9CADADFA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAED16D1-CBCF-4547-9552-6E9CADADFA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D6DA46-D212-48CC-9F04-7F8BD16DED20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D6DA46-D212-48CC-9F04-7F8BD16DED20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D6DA46-D212-48CC-9F04-7F8BD16DED20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D6DA46-D212-48CC-9F04-7F8BD16DED20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
