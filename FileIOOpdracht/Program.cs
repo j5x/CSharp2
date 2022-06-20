@@ -7,11 +7,26 @@ namespace FileIOOpdracht
     {
         static void Main(string[] args)
         {
-            DirectoryInfo myDir = new DirectoryInfo(@"C:\Users\Mosaw\Desktop\test\CSharp2");
-            foreach (var sub in myDir.GetFiles())
+           
+            string text = System.IO.File.ReadAllText(@"C:\MA\2021-2022\P4\GDCSharp2\CSharp2opdrachten2\txt\lol.txt");
+
+            
+            System.Console.WriteLine("Dit is wat er in lol.txt staat = {0}", text);
+
+         
+            string[] lines = System.IO.File.ReadAllLines(@"C:\MA\2021-2022\P4\GDCSharp2\CSharp2opdrachten2\txt\lol1.txt");
+
+            
+            System.Console.WriteLine("Dit staat er in lol1.txt = ");
+            foreach (string line in lines)
             {
-                Console.WriteLine(sub.Name);
+                
+                Console.WriteLine("\t" + line);
             }
+
+            
+            Console.WriteLine("Press any key to exit.");
+            System.Console.ReadKey();
         }
     }
 }

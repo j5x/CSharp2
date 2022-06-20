@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mosaw\\.nuget\\packages\\": {}
+    "C:\\Users\\jason\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mosaw\\Desktop\\test\\CSharp2\\EnumOpdracht\\EnumOpdracht.csproj",
+      "projectUniqueName": "C:\\MA\\2021-2022\\P4\\GDCSharp2\\CSharp2opdrachten2\\EnumOpdracht\\EnumOpdracht.csproj",
       "projectName": "EnumOpdracht",
-      "projectPath": "C:\\Users\\Mosaw\\Desktop\\test\\CSharp2\\EnumOpdracht\\EnumOpdracht.csproj",
-      "packagesPath": "C:\\Users\\Mosaw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mosaw\\Desktop\\test\\CSharp2\\EnumOpdracht\\obj\\",
+      "projectPath": "C:\\MA\\2021-2022\\P4\\GDCSharp2\\CSharp2opdrachten2\\EnumOpdracht\\EnumOpdracht.csproj",
+      "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+      "outputPath": "C:\\MA\\2021-2022\\P4\\GDCSharp2\\CSharp2opdrachten2\\EnumOpdracht\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mosaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

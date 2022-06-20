@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mosaw\\Desktop\\test\\CSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2.csproj": {}
+    "C:\\MA\\2021-2022\\P4\\GDCSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2\\CSharp2opdrachten2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mosaw\\Desktop\\test\\CSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2.csproj": {
+    "C:\\MA\\2021-2022\\P4\\GDCSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2\\CSharp2opdrachten2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mosaw\\Desktop\\test\\CSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2.csproj",
+        "projectUniqueName": "C:\\MA\\2021-2022\\P4\\GDCSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2\\CSharp2opdrachten2.csproj",
         "projectName": "CSharp2opdrachten2",
-        "projectPath": "C:\\Users\\Mosaw\\Desktop\\test\\CSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2.csproj",
-        "packagesPath": "C:\\Users\\Mosaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mosaw\\Desktop\\test\\CSharp2\\CSharp2opdrachten2\\obj\\",
+        "projectPath": "C:\\MA\\2021-2022\\P4\\GDCSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2\\CSharp2opdrachten2.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "C:\\MA\\2021-2022\\P4\\GDCSharp2\\CSharp2opdrachten2\\CSharp2opdrachten2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mosaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
